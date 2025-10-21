@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+!+👋;This+is+AliHzSec+:);Nice+to+meet+you+❤️&center=true&vCenter=true&size=25&color=FFFFFF&duration=3000&pause=1500&font=Comic+Relief">
+      src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+!;This+is+AliHzSec+:);Nice+to+meet+you+❤️&center=true&vCenter=true&size=25&color=FFFFFF&duration=3000&pause=1500&font=Comic+Relief">
   </a>
 </div>
 
@@ -35,9 +35,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img height="180" width="49%" src="https://streak-stats.demolab.com/?user=AliHz1337&theme=dark&hide_border=true"
+  <img height="180" width="49%" src="https://streak-stats.demolab.com/?user=AliHzSec&theme=dark&hide_border=true"
     alt="GitHub Streak" />
   <img height="180" width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=AliHz1337&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=AliHzSec&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats" />
 </div>
