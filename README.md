@@ -31,13 +31,3 @@
   [![Discord](https://img.shields.io/badge/Discord-AliHzSec-7289DA?style=flat&logo=discord)](https://discordapp.com/users/AliHzSec)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img height="180" width="49%" src="https://streak-stats.demolab.com/?user=AliHzSec&theme=dark&hide_border=true"
-    alt="GitHub Streak" />
-  <img height="180" width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=AliHzSec&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats" />
-</div>
