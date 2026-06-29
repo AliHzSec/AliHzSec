@@ -1,12 +1,22 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+!;This+is+AliHzSec+:);Nice+to+meet+you+❤️&center=true&vCenter=true&size=25&color=FFFFFF&duration=3000&pause=1500&font=Comic+Relief">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+!;This+is+AliHzSec+:);Nice+to+meet+you+❤️&center=true&vCenter=true&size=25&color=FFFFFF&duration=3000&pause=1500&font=Comic+Relief">
   </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">Always curious, always improving — because learning never ends, growth never stops, and staying updated is key.</p>
+<p align="center">Always curious, always improving — because learning never ends, growth never stops, and staying
+  updated is key.</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<div align="center">
+  <img src="./profile/stats.svg" alt="Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Langs" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
