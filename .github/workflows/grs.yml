@@ -18,7 +18,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=AliHzSec&show_icons=true&count_private=true&include_all_commits=true
+          options: username=AliHzSec&show_icons=true&count_private=true&include_all_commits=true&card_width=400&hide_title=true&theme=dark
           path: profile/stats.svg
           token: ${{ secrets.GH_PAT }}
 
@@ -26,7 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=AliHzSec&layout=compact
+          options: username=AliHzSec&layout=compact&card_width=400&hide_title=true&theme=dark
           path: profile/top-langs.svg
           token: ${{ secrets.GH_PAT }}
 
