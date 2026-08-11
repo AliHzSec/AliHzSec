@@ -22,14 +22,6 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GH_PAT }}
 
-      - name: Generate streak card (including private repos)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: streak
-          options: username=AliHzSec&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly
-          path: profile/streak.svg
-          token: ${{ secrets.GH_PAT }}
-
       - name: Generate top languages card (including private repos)
         uses: readme-tools/github-readme-stats-action@v1
         with:
