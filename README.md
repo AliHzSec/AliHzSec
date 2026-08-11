@@ -1,24 +1,10 @@
-<h2 align="center">Hi, I'm AliHzSec</h2>
+<h2 align="center">Hi, I'm Ali</h2>
 
 <p align="center">
-  Software Developer & Security Researcher
-</p>
-<p align="center">
-  Focused on web application security, exploit development, and bug bounty hunting.
+  Security Researcher & Software Developer
 </p>
 
-<hr>
-
-<p align="center">
-  <a href="#">
-    <img height="170em" src="./profile/stats.svg" alt="Stats" />
-  </a>
-  <a href="#">
-    <img height="170em" src="./profile/top-langs.svg" alt="Top Langs" />
-  </a>
-</p>
-
-<hr>
+<br>
 
 <div align="center">
 
@@ -28,3 +14,11 @@
   [![Telegram](https://img.shields.io/badge/Telegram-AliHzSec-0088cc?style=flat&logo=telegram)](https://t.me/AliHzSec)
 
 </div>
+
+<br>
+
+<p align="center">
+  <a href="#">
+    <img height="170em" src="./profile/stats.svg" alt="Stats" />
+  </a>
+</p>
